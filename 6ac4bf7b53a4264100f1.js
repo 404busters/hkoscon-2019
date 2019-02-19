@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{175:function(e,t,n){"use strict";n.r(t);n(85);t.default={functional:!0,props:{event:{type:Object,required:!0}},render:function(e,t){var n=t.props,r=t.slots,o=t.children;return n.event.topic?e("nuxt-link",{props:{to:new URL(n.event.internal).pathname.replace("/event/","/topic/")},staticClass:"topicWrapper"},o):r().default[0]}}}}]);
-//# sourceMappingURL=6ac4bf7b53a4264100f1.js.map
