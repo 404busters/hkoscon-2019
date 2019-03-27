@@ -30,16 +30,12 @@ self.__precacheManifest = [
     "revision": "0229df560c8798e1d052a972115087be"
   },
   {
-    "url": "/hkoscon-2019/08d5ada300c196f691f0.js",
-    "revision": "88fd679031087308a55d22f0859f234a"
-  },
-  {
     "url": "/hkoscon-2019/096016304cbe014886d7.css",
     "revision": "0c02e47203b1290ad5f5abb4f970155e"
   },
   {
     "url": "/hkoscon-2019/200.html",
-    "revision": "efedb2c50d9dccd4643e50d76bebe218"
+    "revision": "11219d7ef2aaf75d8e680454da0f6093"
   },
   {
     "url": "/hkoscon-2019/2e001101abf10247c3cf.js",
@@ -72,10 +68,6 @@ self.__precacheManifest = [
   {
     "url": "/hkoscon-2019/500b2bf34a0fe9a2c0ce.css",
     "revision": "10d5d691aa0b3533093b57c41687a438"
-  },
-  {
-    "url": "/hkoscon-2019/52085eae48cee94e17a5.js",
-    "revision": "6185b32d4bbfdcfd361d1fc9b3d72f80"
   },
   {
     "url": "/hkoscon-2019/538779b615a2e0de3c2b.js",
@@ -127,11 +119,15 @@ self.__precacheManifest = [
   },
   {
     "url": "/hkoscon-2019/about/coc/index.html",
-    "revision": "441eab4247416a3e69eea2c3c540b409"
+    "revision": "b28216ce51dce77a5c397d249dc44f43"
   },
   {
     "url": "/hkoscon-2019/about/committee/index.html",
-    "revision": "01d564911d0a132caccecb95e1010b49"
+    "revision": "eecafac991994229f95b8abde600c55e"
+  },
+  {
+    "url": "/hkoscon-2019/b77741939f7bb4e64db4.js",
+    "revision": "c4f8ac95096bacd96c60547b7e667fb3"
   },
   {
     "url": "/hkoscon-2019/c08eec3748036dc29f58.css",
@@ -147,11 +143,11 @@ self.__precacheManifest = [
   },
   {
     "url": "/hkoscon-2019/cfc/index.html",
-    "revision": "7d32f67c2b842ab0babbb51ad941d17c"
+    "revision": "2d071ab402fa6e50228fee2d923ddd89"
   },
   {
     "url": "/hkoscon-2019/cfp/index.html",
-    "revision": "32cd4b5f4f3ad54e47a6789823c94cc9"
+    "revision": "b4d002620975018ce81e4407847976e4"
   },
   {
     "url": "/hkoscon-2019/d1d212570e26027c294f.css",
@@ -168,6 +164,10 @@ self.__precacheManifest = [
   {
     "url": "/hkoscon-2019/e03e48b338ed191228c2.css",
     "revision": "6daa27100b2731025d9c6eb32e1ae6ed"
+  },
+  {
+    "url": "/hkoscon-2019/e55bc11dac7ed5639faa.js",
+    "revision": "1b5bb4fa624396694cdcb63029516e83"
   },
   {
     "url": "/hkoscon-2019/e7a7bc4f5725da45b4cc.js",
@@ -203,339 +203,339 @@ self.__precacheManifest = [
   },
   {
     "url": "/hkoscon-2019/index.html",
-    "revision": "d8ae19ee11fa4d1eb43e89d0192bc4d1"
+    "revision": "c14424755f610e147d8aa7168f766e97"
   },
   {
     "url": "/hkoscon-2019/timetable/index.html",
-    "revision": "882938b374f1436989867a67cdd11657"
+    "revision": "0ee4593ccffc25b9501c296b498f2593"
   },
   {
     "url": "/hkoscon-2019/topics/8-essential-steps-secure-your-mysql/index.html",
-    "revision": "2a5e08f0db0ec945a85c91b48d51e3e0"
+    "revision": "b2889c70365a7221ec724e0d7bd451b8"
   },
   {
     "url": "/hkoscon-2019/topics/build-jamstack-blog-system-gatsbyjs/index.html",
-    "revision": "62aa40045d8639945ee274880a217835"
+    "revision": "70d4de84867d415075f0e545929a329c"
   },
   {
     "url": "/hkoscon-2019/topics/build-minimal-dbms-scratch-rust/index.html",
-    "revision": "64354f9cb87f86572da1147c9da9dba4"
+    "revision": "c2e84e46381ea3b1612dc5bd95847b2c"
   },
   {
     "url": "/hkoscon-2019/topics/continuous-delivery-cloud-native-infrastructure/index.html",
-    "revision": "6de5c3a1568d08708ebe13e279bda737"
+    "revision": "c1d651fa2f7103ab256fa7a7ae2f74e4"
   },
   {
     "url": "/hkoscon-2019/topics/dapp-game-blockchain-random-number-generation-method-and-implementation/index.html",
-    "revision": "7e6a34f50e51d0322da687d667e171d2"
+    "revision": "f0590603233ea291a105a4564ecb783d"
   },
   {
     "url": "/hkoscon-2019/topics/decentralized-bare-metal-operating-system-provisioning/index.html",
-    "revision": "462041684a52e9e7d6bf94db16233898"
+    "revision": "e8f1e25f400f4c083a3df079f05d1ee7"
   },
   {
     "url": "/hkoscon-2019/topics/decentralized-data-marketplace-based-distributed-ledgers/index.html",
-    "revision": "380619dc9f9eaf71354ff15c9ab91169"
+    "revision": "98ea69298be612a20ac80739adf87a79"
   },
   {
     "url": "/hkoscon-2019/topics/devops-ansible-native-kubernetes/index.html",
-    "revision": "9742dd131eae9c7d3f77db8c9f1b1d7c"
+    "revision": "97608e2bc972216a90c650ae4bc38bd4"
   },
   {
     "url": "/hkoscon-2019/topics/diagnosis-internets-health-mozilla-internet-health-report/index.html",
-    "revision": "9e37220924466a4881507f07ccab22c2"
+    "revision": "c58882a72d1be17dddf8b42fac20c616"
   },
   {
     "url": "/hkoscon-2019/topics/diy-wealth-management-app/index.html",
-    "revision": "c9e47515ef30a8d2d817699d0ff823b8"
+    "revision": "aea2e5f1d39b230a837d7cfab45f4e25"
   },
   {
     "url": "/hkoscon-2019/topics/formal-verification-smart-contract/index.html",
-    "revision": "cf9f666706cc832ea82432806bd630c7"
+    "revision": "238ea14a395e085ae6bde470c95fb776"
   },
   {
     "url": "/hkoscon-2019/topics/haxe-transpilation-php-static-typing-arrow-functions-metaprogramming-and-more/index.html",
-    "revision": "d4ec497fcaa902f93a54281c8f12899c"
+    "revision": "d22712a24a469eacc539651b5041caad"
   },
   {
     "url": "/hkoscon-2019/topics/homemade-scientific-clusters/index.html",
-    "revision": "51149801c21a50fea2ff10658c1ad5b7"
+    "revision": "e5ef6b8b751fc14ead5dea1d3e0bc0ba"
   },
   {
     "url": "/hkoscon-2019/topics/how-we-started-open-source-apm-project-and-troubleshooting-it/index.html",
-    "revision": "ed0ed292db5c093e47334970bb68f50e"
+    "revision": "1518452832557dab71ae441b7c425948"
   },
   {
     "url": "/hkoscon-2019/topics/ice-cream-robot-creating-qr-code-ice-cream-coupons-gravityforms-and-minimum-coding/index.html",
-    "revision": "3a45754d53695995e367d85f85c04d64"
+    "revision": "bb79ef0564b399fe3b9d5e107aadb40a"
   },
   {
     "url": "/hkoscon-2019/topics/index.html",
-    "revision": "3b40740c87fff4187dac84b4bb0d2f16"
+    "revision": "9b256c1b08576268cd1c9d68e84c95c9"
   },
   {
     "url": "/hkoscon-2019/topics/introducing-open-technology-hong-kong-education/index.html",
-    "revision": "21ef730c4a125623944a9a4a53e516ba"
+    "revision": "0f3d523bee089cd4a6878b6c8929b0a9"
   },
   {
     "url": "/hkoscon-2019/topics/introducing-tus-resumable-file-uploads-protocol/index.html",
-    "revision": "c5c5bcd620685b45b01f3b677af8b728"
+    "revision": "336b4a25f3391ad1070b76ffda0083eb"
   },
   {
     "url": "/hkoscon-2019/topics/introduct-students-open-source-conference/index.html",
-    "revision": "ab522805574645c1e971baeff6fb9a14"
+    "revision": "6508dd5652eb675e9085a3eb2e45fe9f"
   },
   {
     "url": "/hkoscon-2019/topics/jiegouxianggangrenyongbiaokaitidekunhuo/index.html",
-    "revision": "0c11b81e6f404808f069535babcda536"
+    "revision": "6f0e3b95c20390dd26d75f83abc1a42b"
   },
   {
     "url": "/hkoscon-2019/topics/lesson-learned-large-scale-mysql-cluster-implementing-project/index.html",
-    "revision": "de6bcedc23a4e49628c5a5dfd31f8cd6"
+    "revision": "482bd8cd2d7be5634e4ffb30ab9f2518"
   },
   {
     "url": "/hkoscon-2019/topics/lets-build-bitcoin-client-rust-scratch/index.html",
-    "revision": "425013d1448006076e5ba271264da34a"
+    "revision": "26966b5bf66054f4cd62305d99354005"
   },
   {
     "url": "/hkoscon-2019/topics/make-hyperledger-fabric-reactive-and-cqrs-es/index.html",
-    "revision": "6ba8766f3bee92fe6769519816865618"
+    "revision": "14b6a83d47017c50630aedba77687432"
   },
   {
     "url": "/hkoscon-2019/topics/moving-python-3-while-keeping-mozilla-fuzzing-lights/index.html",
-    "revision": "85d1baf1a0e7d3f44e66cea0bf4baa45"
+    "revision": "9398488a4f98f0ff199528fb85c6355a"
   },
   {
     "url": "/hkoscon-2019/topics/muggle-promote-open-source-pathways-take-coscup-sponsorship-team-example/index.html",
-    "revision": "32fbe44ec8f0a8cd725294832164e493"
+    "revision": "06dedba57342e029d2aeee46823d4fe4"
   },
   {
     "url": "/hkoscon-2019/topics/open-standard-and-database-languages-hong-kong-context/index.html",
-    "revision": "1ceed69f4bb80eda397a94bf848bec8f"
+    "revision": "d242022e3327d6dc90661611d2078081"
   },
   {
     "url": "/hkoscon-2019/topics/pim25-crowdsourced-weather-data-project/index.html",
-    "revision": "d81906c6afe64b24aef7204ffed7ebc4"
+    "revision": "7e594ccbb854561417c89e488786dfa8"
   },
   {
     "url": "/hkoscon-2019/topics/plant-identification-system-ai-ar/index.html",
-    "revision": "b166a5712f2a5e27da61b4cd1dcb998a"
+    "revision": "d6a6a88f74d9666cab512f7f0d9929de"
   },
   {
     "url": "/hkoscon-2019/topics/plug-it-my-sql-authentication-windows-pam/index.html",
-    "revision": "9ef51575d9a5b279b53fca3b785a81d0"
+    "revision": "d3f1560fba808fba38e16908a604c254"
   },
   {
     "url": "/hkoscon-2019/topics/practical-mysql-performance-tuning-and-optimization-mysqlxingnengyouhuashizhan/index.html",
-    "revision": "d8cd20ddcf42745c7ab75b97c752a0e2"
+    "revision": "c1d64b7819a65490334308a3f2868088"
   },
   {
     "url": "/hkoscon-2019/topics/r-exploratory-data-analysis/index.html",
-    "revision": "50902062751d4b502d0dd97695fad11d"
+    "revision": "fdcf4eb19e6019b29b6628326cef7631"
   },
   {
     "url": "/hkoscon-2019/topics/raspberry-pi-history-tips-and-use-case/index.html",
-    "revision": "d9d94f3a7df0a9a7323d7e676f055c51"
+    "revision": "3048281e7f6a8bba0e30033e422f5d4e"
   },
   {
     "url": "/hkoscon-2019/topics/status-quo-tensorflow-lite/index.html",
-    "revision": "bb17391c1106cb2040b01cca9512f72f"
+    "revision": "453f80cba6ac5def37b22f3f1dad7dad"
   },
   {
     "url": "/hkoscon-2019/topics/troubleshooting-performance-tuning-best-practices/index.html",
-    "revision": "2855358ad957f45f8bbfe1b2d37d5182"
+    "revision": "81851c8db7db5235323fcfd92bedacbc"
   },
   {
     "url": "/hkoscon-2019/topics/vlc-and-open-source-multimedia-news/index.html",
-    "revision": "42d6b9b5760ec6b4dfd42f61e5ac6d12"
+    "revision": "e936881684a2dbe012eaffc21d07f4b4"
   },
   {
     "url": "/hkoscon-2019/topics/what-hyperledger-fabric-20-bring-us/index.html",
-    "revision": "b5f7b4567cc7dc39d7f5ea5a934ee537"
+    "revision": "5a08ca3a91e0670e00420e1edf262bbc"
   },
   {
     "url": "/hkoscon-2019/topics/whats-new-haxe-4/index.html",
-    "revision": "c3c52e0e8f72bdffb5e5610de8bf09dc"
+    "revision": "3b6cc3f6b87800c7677f5dd2015564e1"
   },
   {
     "url": "/hkoscon-2019/topics/wordpress-seo/index.html",
-    "revision": "68cd7c140f6dadabc002c25d572037bc"
+    "revision": "3a7efd340987efa75ce59c296846af03"
   },
   {
     "url": "/hkoscon-2019/about/coc/",
-    "revision": "441eab4247416a3e69eea2c3c540b409"
+    "revision": "b28216ce51dce77a5c397d249dc44f43"
   },
   {
     "url": "/hkoscon-2019/about/committee/",
-    "revision": "01d564911d0a132caccecb95e1010b49"
+    "revision": "eecafac991994229f95b8abde600c55e"
   },
   {
     "url": "/hkoscon-2019/cfc/",
-    "revision": "7d32f67c2b842ab0babbb51ad941d17c"
+    "revision": "2d071ab402fa6e50228fee2d923ddd89"
   },
   {
     "url": "/hkoscon-2019/cfp/",
-    "revision": "32cd4b5f4f3ad54e47a6789823c94cc9"
+    "revision": "b4d002620975018ce81e4407847976e4"
   },
   {
     "url": "/hkoscon-2019/",
-    "revision": "d8ae19ee11fa4d1eb43e89d0192bc4d1"
+    "revision": "c14424755f610e147d8aa7168f766e97"
   },
   {
     "url": "/hkoscon-2019/timetable/",
-    "revision": "882938b374f1436989867a67cdd11657"
+    "revision": "0ee4593ccffc25b9501c296b498f2593"
   },
   {
     "url": "/hkoscon-2019/topics/8-essential-steps-secure-your-mysql/",
-    "revision": "2a5e08f0db0ec945a85c91b48d51e3e0"
+    "revision": "b2889c70365a7221ec724e0d7bd451b8"
   },
   {
     "url": "/hkoscon-2019/topics/build-jamstack-blog-system-gatsbyjs/",
-    "revision": "62aa40045d8639945ee274880a217835"
+    "revision": "70d4de84867d415075f0e545929a329c"
   },
   {
     "url": "/hkoscon-2019/topics/build-minimal-dbms-scratch-rust/",
-    "revision": "64354f9cb87f86572da1147c9da9dba4"
+    "revision": "c2e84e46381ea3b1612dc5bd95847b2c"
   },
   {
     "url": "/hkoscon-2019/topics/continuous-delivery-cloud-native-infrastructure/",
-    "revision": "6de5c3a1568d08708ebe13e279bda737"
+    "revision": "c1d651fa2f7103ab256fa7a7ae2f74e4"
   },
   {
     "url": "/hkoscon-2019/topics/dapp-game-blockchain-random-number-generation-method-and-implementation/",
-    "revision": "7e6a34f50e51d0322da687d667e171d2"
+    "revision": "f0590603233ea291a105a4564ecb783d"
   },
   {
     "url": "/hkoscon-2019/topics/decentralized-bare-metal-operating-system-provisioning/",
-    "revision": "462041684a52e9e7d6bf94db16233898"
+    "revision": "e8f1e25f400f4c083a3df079f05d1ee7"
   },
   {
     "url": "/hkoscon-2019/topics/decentralized-data-marketplace-based-distributed-ledgers/",
-    "revision": "380619dc9f9eaf71354ff15c9ab91169"
+    "revision": "98ea69298be612a20ac80739adf87a79"
   },
   {
     "url": "/hkoscon-2019/topics/devops-ansible-native-kubernetes/",
-    "revision": "9742dd131eae9c7d3f77db8c9f1b1d7c"
+    "revision": "97608e2bc972216a90c650ae4bc38bd4"
   },
   {
     "url": "/hkoscon-2019/topics/diagnosis-internets-health-mozilla-internet-health-report/",
-    "revision": "9e37220924466a4881507f07ccab22c2"
+    "revision": "c58882a72d1be17dddf8b42fac20c616"
   },
   {
     "url": "/hkoscon-2019/topics/diy-wealth-management-app/",
-    "revision": "c9e47515ef30a8d2d817699d0ff823b8"
+    "revision": "aea2e5f1d39b230a837d7cfab45f4e25"
   },
   {
     "url": "/hkoscon-2019/topics/formal-verification-smart-contract/",
-    "revision": "cf9f666706cc832ea82432806bd630c7"
+    "revision": "238ea14a395e085ae6bde470c95fb776"
   },
   {
     "url": "/hkoscon-2019/topics/haxe-transpilation-php-static-typing-arrow-functions-metaprogramming-and-more/",
-    "revision": "d4ec497fcaa902f93a54281c8f12899c"
+    "revision": "d22712a24a469eacc539651b5041caad"
   },
   {
     "url": "/hkoscon-2019/topics/homemade-scientific-clusters/",
-    "revision": "51149801c21a50fea2ff10658c1ad5b7"
+    "revision": "e5ef6b8b751fc14ead5dea1d3e0bc0ba"
   },
   {
     "url": "/hkoscon-2019/topics/how-we-started-open-source-apm-project-and-troubleshooting-it/",
-    "revision": "ed0ed292db5c093e47334970bb68f50e"
+    "revision": "1518452832557dab71ae441b7c425948"
   },
   {
     "url": "/hkoscon-2019/topics/ice-cream-robot-creating-qr-code-ice-cream-coupons-gravityforms-and-minimum-coding/",
-    "revision": "3a45754d53695995e367d85f85c04d64"
+    "revision": "bb79ef0564b399fe3b9d5e107aadb40a"
   },
   {
     "url": "/hkoscon-2019/topics/",
-    "revision": "3b40740c87fff4187dac84b4bb0d2f16"
+    "revision": "9b256c1b08576268cd1c9d68e84c95c9"
   },
   {
     "url": "/hkoscon-2019/topics/introducing-open-technology-hong-kong-education/",
-    "revision": "21ef730c4a125623944a9a4a53e516ba"
+    "revision": "0f3d523bee089cd4a6878b6c8929b0a9"
   },
   {
     "url": "/hkoscon-2019/topics/introducing-tus-resumable-file-uploads-protocol/",
-    "revision": "c5c5bcd620685b45b01f3b677af8b728"
+    "revision": "336b4a25f3391ad1070b76ffda0083eb"
   },
   {
     "url": "/hkoscon-2019/topics/introduct-students-open-source-conference/",
-    "revision": "ab522805574645c1e971baeff6fb9a14"
+    "revision": "6508dd5652eb675e9085a3eb2e45fe9f"
   },
   {
     "url": "/hkoscon-2019/topics/jiegouxianggangrenyongbiaokaitidekunhuo/",
-    "revision": "0c11b81e6f404808f069535babcda536"
+    "revision": "6f0e3b95c20390dd26d75f83abc1a42b"
   },
   {
     "url": "/hkoscon-2019/topics/lesson-learned-large-scale-mysql-cluster-implementing-project/",
-    "revision": "de6bcedc23a4e49628c5a5dfd31f8cd6"
+    "revision": "482bd8cd2d7be5634e4ffb30ab9f2518"
   },
   {
     "url": "/hkoscon-2019/topics/lets-build-bitcoin-client-rust-scratch/",
-    "revision": "425013d1448006076e5ba271264da34a"
+    "revision": "26966b5bf66054f4cd62305d99354005"
   },
   {
     "url": "/hkoscon-2019/topics/make-hyperledger-fabric-reactive-and-cqrs-es/",
-    "revision": "6ba8766f3bee92fe6769519816865618"
+    "revision": "14b6a83d47017c50630aedba77687432"
   },
   {
     "url": "/hkoscon-2019/topics/moving-python-3-while-keeping-mozilla-fuzzing-lights/",
-    "revision": "85d1baf1a0e7d3f44e66cea0bf4baa45"
+    "revision": "9398488a4f98f0ff199528fb85c6355a"
   },
   {
     "url": "/hkoscon-2019/topics/muggle-promote-open-source-pathways-take-coscup-sponsorship-team-example/",
-    "revision": "32fbe44ec8f0a8cd725294832164e493"
+    "revision": "06dedba57342e029d2aeee46823d4fe4"
   },
   {
     "url": "/hkoscon-2019/topics/open-standard-and-database-languages-hong-kong-context/",
-    "revision": "1ceed69f4bb80eda397a94bf848bec8f"
+    "revision": "d242022e3327d6dc90661611d2078081"
   },
   {
     "url": "/hkoscon-2019/topics/pim25-crowdsourced-weather-data-project/",
-    "revision": "d81906c6afe64b24aef7204ffed7ebc4"
+    "revision": "7e594ccbb854561417c89e488786dfa8"
   },
   {
     "url": "/hkoscon-2019/topics/plant-identification-system-ai-ar/",
-    "revision": "b166a5712f2a5e27da61b4cd1dcb998a"
+    "revision": "d6a6a88f74d9666cab512f7f0d9929de"
   },
   {
     "url": "/hkoscon-2019/topics/plug-it-my-sql-authentication-windows-pam/",
-    "revision": "9ef51575d9a5b279b53fca3b785a81d0"
+    "revision": "d3f1560fba808fba38e16908a604c254"
   },
   {
     "url": "/hkoscon-2019/topics/practical-mysql-performance-tuning-and-optimization-mysqlxingnengyouhuashizhan/",
-    "revision": "d8cd20ddcf42745c7ab75b97c752a0e2"
+    "revision": "c1d64b7819a65490334308a3f2868088"
   },
   {
     "url": "/hkoscon-2019/topics/r-exploratory-data-analysis/",
-    "revision": "50902062751d4b502d0dd97695fad11d"
+    "revision": "fdcf4eb19e6019b29b6628326cef7631"
   },
   {
     "url": "/hkoscon-2019/topics/raspberry-pi-history-tips-and-use-case/",
-    "revision": "d9d94f3a7df0a9a7323d7e676f055c51"
+    "revision": "3048281e7f6a8bba0e30033e422f5d4e"
   },
   {
     "url": "/hkoscon-2019/topics/status-quo-tensorflow-lite/",
-    "revision": "bb17391c1106cb2040b01cca9512f72f"
+    "revision": "453f80cba6ac5def37b22f3f1dad7dad"
   },
   {
     "url": "/hkoscon-2019/topics/troubleshooting-performance-tuning-best-practices/",
-    "revision": "2855358ad957f45f8bbfe1b2d37d5182"
+    "revision": "81851c8db7db5235323fcfd92bedacbc"
   },
   {
     "url": "/hkoscon-2019/topics/vlc-and-open-source-multimedia-news/",
-    "revision": "42d6b9b5760ec6b4dfd42f61e5ac6d12"
+    "revision": "e936881684a2dbe012eaffc21d07f4b4"
   },
   {
     "url": "/hkoscon-2019/topics/what-hyperledger-fabric-20-bring-us/",
-    "revision": "b5f7b4567cc7dc39d7f5ea5a934ee537"
+    "revision": "5a08ca3a91e0670e00420e1edf262bbc"
   },
   {
     "url": "/hkoscon-2019/topics/whats-new-haxe-4/",
-    "revision": "c3c52e0e8f72bdffb5e5610de8bf09dc"
+    "revision": "3b6cc3f6b87800c7677f5dd2015564e1"
   },
   {
     "url": "/hkoscon-2019/topics/wordpress-seo/",
-    "revision": "68cd7c140f6dadabc002c25d572037bc"
+    "revision": "3a7efd340987efa75ce59c296846af03"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
