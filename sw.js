@@ -207,7 +207,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/hkoscon-2019/timetable/index.html",
-    "revision": "f09445c6fdf6501d0265fb2376b54865"
+    "revision": "4ec1a25105bff33bcaf42314fc2bd1b2"
   },
   {
     "url": "/hkoscon-2019/topics/8-essential-steps-secure-your-mysql/index.html",
@@ -383,7 +383,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/hkoscon-2019/timetable/",
-    "revision": "f09445c6fdf6501d0265fb2376b54865"
+    "revision": "4ec1a25105bff33bcaf42314fc2bd1b2"
   },
   {
     "url": "/hkoscon-2019/topics/8-essential-steps-secure-your-mysql/",
