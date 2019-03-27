@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{207:function(e,t,n){"use strict";n.r(t);n(91);var r=n(143),o=n.n(r);t.default={functional:!0,props:{event:{type:Object,required:!0}},render:function(e,t){var n=t.props,r=t.slots,c=t.children;return n.event.topic?e("nuxt-link",{props:{to:o.a.parse(n.event.internal).pathname.replace("/event/","/topic/")},staticClass:"topicWrapper"},c):r().default[0]}}}}]);
-//# sourceMappingURL=3ff0bd3d4599a162f94f.js.map
