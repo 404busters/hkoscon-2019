@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{157:function(t,n,e){},204:function(t,n,e){"use strict";var r=e(157);e.n(r).a},224:function(t,n,e){"use strict";e.r(n);var r={name:"PageBanner",props:{title:{type:String,required:!0,default:""}}},l=(e(204),e(17)),component=Object(l.a)(r,function(){var t=this.$createElement,n=this._self._c||t;return n("div",{staticClass:"pageBanner"},[n("h1",{staticClass:"title is-2"},[this._v("\n    "+this._s(this.title)+"\n  ")])])},[],!1,null,null,null);n.default=component.exports}}]);
+//# sourceMappingURL=18df3f6038ad97a86c99.js.map
