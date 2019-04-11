@@ -121,7 +121,7 @@
     <div class="homePage__cards">
       <div class="card homePage__card">
         <div class="card-content">
-          <p class="title is-4 has-text-theme-yellow"># About</p>
+          <p class="title is-4 has-text-theme-blue"># About</p>
           <p>
             Hong Kong Open Source Conference (HKOSCon) is one of the major Open Source conferences in Hong Kong since its first commercement in 2013,
             bringing an international crowd of developers, contributors, users, IT manager, students and public.
