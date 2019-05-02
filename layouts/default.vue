@@ -170,10 +170,22 @@
                 class="navbar-dropdown defaultLayout__dropdown"
               >
                 <nuxt-link
+                  to="/about/conference"
+                  class="navbar-item"
+                >
+                  About Conference
+                </nuxt-link>
+                <nuxt-link
+                  to="/about/organizers"
+                  class="navbar-item"
+                >
+                  Organizers
+                </nuxt-link>
+                <nuxt-link
                   to="/about/volunteers"
                   class="navbar-item"
                 >
-                  Volunteer
+                  Volunteers
                 </nuxt-link>
                 <nuxt-link
                   to="/about/coc"
@@ -183,33 +195,24 @@
                 </nuxt-link>
               </div>
             </div>
-            <div
-              :class="{ 'is-active': showProgram }"
-              class="navbar-item has-dropdown defaultLayout__trigger"
+            <nuxt-link
+              to="/cfc"
+              class="navbar-item"
             >
-              <span
-                @click.stop="showProgram = !showProgram"
-                class="navbar-link is-arrowless defaultLayout__trigger"
-                tabindex=""
-              >Program</span>
-              <div
-                :class="{ 'defaultLayout__dropdown--active': showProgram }"
-                class="navbar-dropdown defaultLayout__dropdown"
-              >
-                <nuxt-link
-                  to="/topics"
-                  class="navbar-item"
-                >
-                  Call for Paper Result
-                </nuxt-link>
-                <nuxt-link
-                  to="/cfc"
-                  class="navbar-item"
-                >
-                  Call for Community Result
-                </nuxt-link>
-              </div>
-            </div>
+              Communities
+            </nuxt-link>
+            <nuxt-link
+              to="/sponsors"
+              class="navbar-item"
+            >
+              Sponsors
+            </nuxt-link>
+            <nuxt-link
+              to="/timetable"
+              class="navbar-item"
+            >
+              Timetable
+            </nuxt-link>
             <div
               :class="{ 'is-active': showArchive }"
               class="navbar-item has-dropdown defaultLayout__trigger"
