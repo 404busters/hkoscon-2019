@@ -1,6 +1,10 @@
 <style lang="scss">
   .pageBanner {
     padding-top: 3rem;
+    @include media("<=desktop") {
+      padding-left: 1.5rem;
+      padding-right: 1.5rem;
+    }
   }
 </style>
 
